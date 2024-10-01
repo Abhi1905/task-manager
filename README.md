@@ -72,13 +72,13 @@ JWT_SECRET=your_jwt_secret
 
 1. Start the backend server:
    ```bash
-   cd todo-backend
+   cd backend
    npm start
    ```
 
 2. Start the frontend application:
    ```bash
-   cd todo-frontend
+   cd frontend
    npm start
    ```
 
